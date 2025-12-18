@@ -1,0 +1,5 @@
+print("Nama : Rizka Nur Azizah")
+print("NIM : 3312501005")
+print("Asal Sekolah : SMK Negeri 5 Batam")
+print("Jurusan : Teknik Informatika")
+print("Prodi : D3 Teknik Informatika")
